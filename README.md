@@ -1,1 +1,1 @@
-A simple page for the grocery sales app unit tests.
+A simple page for the grocery sales project unit tests.
